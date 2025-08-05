@@ -1,0 +1,12 @@
+yfinance
+streamlit
+requests
+sentence-transformers
+faiss-cpu
+ollama
+textblob
+plotly
+pdfplumber
+python-dotenv
+yahooquery
+reportlab
